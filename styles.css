@@ -259,7 +259,6 @@ footer {
 
 /* Estilos dark-mode */
 body.dark-mode {
-    background-color: #1a1a2e;
     background-image: url('images/simpsonpatterdark.jpg');
     color: #e0e0e0;
 }
